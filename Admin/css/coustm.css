@@ -1,0 +1,13 @@
+.card-setting{
+	margin-top: 30px;
+	float: left;
+}
+.clear-div{
+	clear: both;
+}
+@media (max-width: 500px)
+{
+	.hide-name{
+		display: none;
+	}
+}
